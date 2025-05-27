@@ -58,7 +58,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 For more details, refer to docs/requirements.md.
 
 ##📂 Repository Structure
-data-warehouse-project/
+```data-warehouse-project/
 │
 ├── datasets/ # Raw datasets used for the project (ERP and CRM data)
 │
@@ -81,3 +81,4 @@ data-warehouse-project/
 ├── LICENSE # License information
 ├── .gitignore # Git ignored files and directories
 └── requirements.txt # Project dependencies and requirements
+```
